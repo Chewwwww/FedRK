@@ -1,12 +1,9 @@
 cff-version: 1.2.0
-message: "The code for the experiments in "A federated Kaczmarz algorithm"."
+message: "The code for the experiments in FedRK."
 authors:
-  - family-names: Wu 
-    given-names: Chi-Hao
-    orcid: https://orcid.org/0009-0005-7029-7553
+  - family-names: "Wu" 
+    given-names: "Chi-Hao"
+    orcid: "https://orcid.org/0009-0005-7029-7553"
 title: "A federated Kaczmarz algorithm"
-version: 
-identifiers:
-  - type: 
-    value: 
 date-released: 2026-03-04
+url: "https://github.com/Chewwwww/FedRK"
